@@ -1,5 +1,5 @@
 <script setup>
-import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue';
+import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue'
 
 </script>
 <template>
@@ -22,8 +22,8 @@ import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue';
   @import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
   
   body,html {
-  	font-family: 'Anton', sans-serif;
-  };
+  	font-family: 'Anton', sans-serif
+  }
 
 
 

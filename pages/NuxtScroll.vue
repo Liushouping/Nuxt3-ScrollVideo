@@ -33,18 +33,18 @@ export default {
   
   body,html {
   	font-family: 'Anton', sans-serif;
-  };
+  }
 
 
-.my-name:hover {
- cursor:url(http://www.picgifs.com/smileys/smileys-and-emoticons/money/smileys-money-671353.gif), auto;
-}
+	.my-name:hover {
+	 cursor:url(http://www.picgifs.com/smileys/smileys-and-emoticons/money/smileys-money-671353.gif), auto;
+	}
 
 
 
-.dev:hover {
- cursor:url(http://www.picgifs.com/smileys/smileys-and-emoticons/money/smileys-money-671353.gif), auto;
-}
+	.dev:hover {
+	 cursor:url(http://www.picgifs.com/smileys/smileys-and-emoticons/money/smileys-money-671353.gif), auto;
+	}
 
 
 </style>
