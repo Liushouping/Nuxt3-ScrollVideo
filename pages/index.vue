@@ -7,7 +7,10 @@ import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue';
 		<div class="h-[300px] flex justify-center items-center">
 			<h1 class="text-[42px]">Hello</h1>
 		</div>
-		<ScrollyVideo src="https://scrollyvideo.js.org/goldengate.mp4" class="h-[1200px]"/>
+		<ScrollyVideo src="https://scrollyvideo.js.org/goldengate.mp4" class="h-[4000px]"/>
+		<div class="h-[5300px] flex justify-center items-center">
+			<h1 class="text-[42px]">Hello</h1>
+		</div>
 	</div>
 	<div class="h-[300px] flex justify-center items-center">
 			<h1 class="text-[42px]">Footer</h1>
